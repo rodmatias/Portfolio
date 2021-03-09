@@ -1,4 +1,4 @@
-# Portfolio
+# Rodrigo Matias Portfolio
 Data science portfolio
 
 # [Project 1: Wonderful Wines of the World](https://github.com/rodmatias/WWW_Customer_Segmentation)
