@@ -29,3 +29,4 @@ definition, positioning, promotions, pricing, and target marketing.
 3. Suggestion of business applications for the findings.
 4. Presentation to the board members of the company
  
+![](https://github.com/rodmatias/Portfolio/blob/main/images/WWW_clusters.png)
