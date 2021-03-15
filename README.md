@@ -1,11 +1,8 @@
 # Rodrigo Matias Portfolio
-Data science portfolio
 
 # [Project 1: Wonderful Wines of the World](https://github.com/rodmatias/WWW_Customer_Segmentation)
 
 **Problem type:** Customer Segmentation
-
-**Submission date:** 01-March-2021 
 
 ## General Context
 
@@ -30,3 +27,26 @@ definition, positioning, promotions, pricing, and target marketing.
 4. Presentation to the board members of the company
  
 ![](https://github.com/rodmatias/Portfolio/blob/main/images/WWW_clusters.png)
+
+# [Project 2: Hotel Cancelations Prediction](https://github.com/rodmatias/Cancelations_Prediction)
+
+**Problem type:** Classification
+
+## General Context
+
+Cancellations occur for understandable reasons such as business meeting
+changes, vacations rescheduling, illness, or adverse weather conditions.
+However, cancellations also occur for not so understandable reasons, such as
+finding a better deal. “Deal-seeking” customers, tend to make multiple
+bookings for the same trip or make one booking, but continue to search for
+better deals (e.g., looking for hotels with better social reputation, better
+price, or better location)
+
+
+## Project Overview
+
+1. Data Exploration in order to identify relavant variables and patterns in the data.
+2. Prediction using Random Forest algorithm
+3. Suggestion of model productionizing
+4. Presentation to the board members of the company
+
