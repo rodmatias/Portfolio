@@ -62,9 +62,9 @@ Instacart is an american company that provides a grocery delivery and pick-up se
 ## Project Overview
 Frequent itemsets list creation in order to respond to the following questions:
 
-What are the main types of consumer behavior in the business?
-Which types of products should have an extended amount of product offerings?
-Which types of products can be seen as substitutes?
-Which items are complementary?
+1. What are the main types of consumer behavior in the business?
+2. Which types of products should have an extended amount of product offerings?
+3. Which types of products can be seen as substitutes?
+4. Which items are complementary?
 
 Filtering those itemsets by confidence, support and lift
