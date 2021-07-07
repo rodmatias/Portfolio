@@ -1,5 +1,7 @@
 # Rodrigo Matias Portfolio
 
+Project 1,2,3 and 4 were made for the Business Cases Curricular Unit of my Master's Program in Data Science and advanced analytics in Nova IMS.
+
 # [Project 1: Wonderful Wines of the World](https://github.com/rodmatias/WWW_Customer_Segmentation)
 
 **Problem type:** Customer Segmentation
