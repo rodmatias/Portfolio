@@ -85,4 +85,4 @@ ManyGiftsUK is a UK-based and registered non-store online retailer with some 80 
 
 1. Data exploration
 2. Model creation using the implicit library with the Alternating least squares algorithm
- b) How did we faced the Cold start problem? offer the most sold products to the new customers
+ - How did we faced the Cold start problem? offer the most sold products to the new customers
