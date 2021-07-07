@@ -68,3 +68,19 @@ Frequent itemsets list creation in order to respond to the following questions:
 4. Which items are complementary?
 
 Filtering those itemsets by confidence, support and lift
+
+
+# [Project 4: ManyGiftsUK recommender system](https://github.com/rodmatias/ManyGiftsUK-recommender-system)
+
+**Problem type:** Recommender System
+
+## Business Situation
+ManyGiftsUK is a UK-based and registered non-store online retailer with some 80 members of staff. The company was established in 1981 mainly selling unique all-occasion gifts.
+
+
+
+## Project Overview
+
+1. Data exploration
+2. Model creation using the implicit library with the Alternating least squares algorithm
+ b) How did we faced the Cold start problem? offer the most sold products to the new customers
