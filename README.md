@@ -50,3 +50,21 @@ price, or better location)
 3. Suggestion of model productionizing
 4. Presentation to the board members of the company
 
+
+# [Project 3: Instacart MBA](https://github.com/rodmatias/InstacartMBA)
+
+**Problem type:** Market Basket Analysis
+
+## Business Situation
+Instacart is an american company that provides a grocery delivery and pick-up service via a website or mobile app in the United States and Canada.
+
+
+## Project Overview
+Frequent itemsets list creation in order to respond to the following questions:
+
+What are the main types of consumer behavior in the business?
+Which types of products should have an extended amount of product offerings?
+Which types of products can be seen as substitutes?
+Which items are complementary?
+
+Filtering those itemsets by confidence, support and lift
